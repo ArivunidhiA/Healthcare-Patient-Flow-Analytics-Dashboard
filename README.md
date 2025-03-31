@@ -17,10 +17,10 @@ This dashboard visualizes patient movement and department activity using histori
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](./Screenshot%202025-03-31%20at%201.57.44%E2%80%AFPM.png)
+![Dashboard](h1.png)
 
 ### Patient Details (Summary)
-![Summary](./Screenshot%202025-03-31%20at%201.58.05%E2%80%AFPM.png)
+![Summary](h2.png)
 
 
 ## 🧩 Data Sources
